@@ -27,7 +27,7 @@ namespace eventos
                 MessageBox.Show("erro", "nao tem nada o textebox");
             }
             else
-                MessageBox.Show("voce dejasa bacon", textBox1.Text);
+                MessageBox.Show("voce dejasa bacon agora!!!!!", textBox1.Text);
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
